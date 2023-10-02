@@ -9,7 +9,7 @@ The designs were created to the following widths:
 
 ## Colors
 
-### Primary
+### Primary 
 
 - Very Dark Blue: hsl(243, 87%, 12%)
 - Desaturated Blue: hsl(238, 22%, 44%)
